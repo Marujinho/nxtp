@@ -1,0 +1,344 @@
+[27-Oct-2017 14:35:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:35:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:35:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:35:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:35:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:35:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:35:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:35:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:38:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:38:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:38:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:38:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:38:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:38:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:38:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:39:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:39:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:39:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:39:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:39:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:39:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:39:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:39:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:39:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:39:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:39:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:39:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:39:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:39:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:39:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 12
+[27-Oct-2017 14:40:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'fetch_assoc' (T_STRING) in /home/nextp065/public_html/checkList.php on line 9
+[27-Oct-2017 14:41:06 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 9
+[29-Oct-2017 11:48:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 11
+[29-Oct-2017 11:48:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 11
+[29-Oct-2017 11:49:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 11
+[30-Oct-2017 10:14:22 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/cashier.php on line 165
+[30-Oct-2017 10:14:42 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/cashierBack.php on line 40
+[30-Oct-2017 10:14:53 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/cashierBack.php on line 40
+[30-Oct-2017 10:15:01 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/cashierBack.php on line 40
+[30-Oct-2017 10:15:56 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/cashierBack.php on line 40
+[30-Oct-2017 10:16:15 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/cashierBack.php on line 40
+[30-Oct-2017 10:28:12 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/cashierBack.php on line 40
+[30-Oct-2017 10:39:05 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/cashierBack.php on line 40
+[30-Oct-2017 12:33:33 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/cashierBack.php on line 40
+[30-Oct-2017 12:37:29 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/cashierBack.php on line 40
+[30-Oct-2017 12:49:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/cashier.php on line 165
+[30-Oct-2017 13:56:04 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/nextp065/public_html/cashier.php on line 165
+[30-Oct-2017 13:56:19 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/cashier.php on line 165
+[30-Oct-2017 13:56:24 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/cashier.php on line 165
+[30-Oct-2017 13:56:32 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/nextp065/public_html/cashier.php on line 165
+[30-Oct-2017 13:56:38 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/nextp065/public_html/cashier.php on line 165
+[30-Oct-2017 14:01:22 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/nextp065/public_html/cashier.php on line 165
+[30-Oct-2017 14:10:22 America/Chicago] PHP Parse error:  syntax error, unexpected '".'"' (T_CONSTANT_ENCAPSED_STRING) in /home/nextp065/public_html/cashierBack.php on line 40
+[30-Oct-2017 18:54:26 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/menu.php on line 59
+[30-Oct-2017 18:56:34 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/menu.php on line 59
+[31-Oct-2017 12:18:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nextp065/public_html/door.php:2) in /home/nextp065/public_html/inc/inc.validateCookie.php on line 72
+[31-Oct-2017 12:18:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nextp065/public_html/door.php:2) in /home/nextp065/public_html/inc/inc.validateCookie.php on line 72
+[31-Oct-2017 12:21:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nextp065/public_html/door.php:2) in /home/nextp065/public_html/inc/inc.validateCookie.php on line 72
+[31-Oct-2017 12:25:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nextp065/public_html/door.php:2) in /home/nextp065/public_html/inc/inc.validateCookie.php on line 72
+[31-Oct-2017 12:25:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nextp065/public_html/door.php:2) in /home/nextp065/public_html/inc/inc.validateCookie.php on line 72
+[31-Oct-2017 12:26:58 America/Chicago] PHP Warning:  require_once(swal.php): failed to open stream: No such file or directory in /home/nextp065/public_html/inc/inc.validateCookie.php on line 3
+[31-Oct-2017 12:26:58 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'swal.php' (include_path='.:/opt/php56/lib/php') in /home/nextp065/public_html/inc/inc.validateCookie.php on line 3
+[31-Oct-2017 12:55:29 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/nextp065/public_html/cashierBack.php on line 33
+[31-Oct-2017 12:55:29 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/nextp065/public_html/cashier.php on line 158
+[31-Oct-2017 12:55:29 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/cashier.php on line 186
+[01-Nov-2017 09:56:08 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home/nextp065/public_html/cashier.php on line 183
+[01-Nov-2017 12:58:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/nextp065/public_html/cashier.php on line 288
+[01-Nov-2017 13:40:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/nextp065/public_html/cashier.php on line 249
+[03-Nov-2017 14:47:29 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 14:47:37 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 14:48:17 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 15:05:47 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nextp065/public_html/checkList.php on line 17
+[03-Nov-2017 15:05:47 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nextp065/public_html/checkList.php on line 17
+[03-Nov-2017 15:05:47 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nextp065/public_html/checkList.php on line 17
+[03-Nov-2017 15:05:47 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nextp065/public_html/checkList.php on line 17
+[03-Nov-2017 15:05:47 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nextp065/public_html/checkList.php on line 17
+[03-Nov-2017 15:05:48 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nextp065/public_html/checkList.php on line 17
+[03-Nov-2017 15:05:48 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nextp065/public_html/checkList.php on line 17
+[03-Nov-2017 15:05:48 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nextp065/public_html/checkList.php on line 17
+[03-Nov-2017 15:05:48 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nextp065/public_html/checkList.php on line 17
+[03-Nov-2017 15:12:40 America/Chicago] PHP Warning:  require_once(inc/incValidateCookie.php): failed to open stream: No such file or directory in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:12:40 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'inc/incValidateCookie.php' (include_path='.:/opt/php56/lib/php') in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:12:41 America/Chicago] PHP Warning:  require_once(inc/incValidateCookie.php): failed to open stream: No such file or directory in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:12:41 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'inc/incValidateCookie.php' (include_path='.:/opt/php56/lib/php') in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:12:41 America/Chicago] PHP Warning:  require_once(inc/incValidateCookie.php): failed to open stream: No such file or directory in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:12:41 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'inc/incValidateCookie.php' (include_path='.:/opt/php56/lib/php') in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:12:41 America/Chicago] PHP Warning:  require_once(inc/incValidateCookie.php): failed to open stream: No such file or directory in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:12:41 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'inc/incValidateCookie.php' (include_path='.:/opt/php56/lib/php') in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:12:41 America/Chicago] PHP Warning:  require_once(inc/incValidateCookie.php): failed to open stream: No such file or directory in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:12:41 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'inc/incValidateCookie.php' (include_path='.:/opt/php56/lib/php') in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:12:41 America/Chicago] PHP Warning:  require_once(inc/incValidateCookie.php): failed to open stream: No such file or directory in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:12:41 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'inc/incValidateCookie.php' (include_path='.:/opt/php56/lib/php') in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:12:41 America/Chicago] PHP Warning:  require_once(inc/incValidateCookie.php): failed to open stream: No such file or directory in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:12:41 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'inc/incValidateCookie.php' (include_path='.:/opt/php56/lib/php') in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:12:42 America/Chicago] PHP Warning:  require_once(inc/incValidateCookie.php): failed to open stream: No such file or directory in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:12:42 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'inc/incValidateCookie.php' (include_path='.:/opt/php56/lib/php') in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:12:42 America/Chicago] PHP Warning:  require_once(inc/incValidateCookie.php): failed to open stream: No such file or directory in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:12:42 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'inc/incValidateCookie.php' (include_path='.:/opt/php56/lib/php') in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:13:49 America/Chicago] PHP Warning:  require_once(inc/inc.ValidateCookie.php): failed to open stream: No such file or directory in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:13:49 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'inc/inc.ValidateCookie.php' (include_path='.:/opt/php56/lib/php') in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:13:49 America/Chicago] PHP Warning:  require_once(inc/inc.ValidateCookie.php): failed to open stream: No such file or directory in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:13:49 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'inc/inc.ValidateCookie.php' (include_path='.:/opt/php56/lib/php') in /home/nextp065/public_html/checkList.php on line 5
+[03-Nov-2017 15:14:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nextp065/public_html/inc/inc.validateCookie.php on line 28
+[03-Nov-2017 15:14:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nextp065/public_html/inc/inc.validateCookie.php on line 28
+[03-Nov-2017 15:16:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[03-Nov-2017 15:16:00 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[03-Nov-2017 15:16:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[03-Nov-2017 15:16:00 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[03-Nov-2017 15:16:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 20
+[03-Nov-2017 15:16:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 22
+[03-Nov-2017 18:29:19 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 18:29:37 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 18:40:15 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 18:43:04 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 19:05:57 America/Chicago] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/nextp065/public_html/setEventsBack.php on line 39
+[03-Nov-2017 19:21:17 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 19:39:47 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 19:39:51 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 19:42:25 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 19:44:52 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 19:46:18 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 19:46:58 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 19:47:26 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 19:47:43 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 19:48:08 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 19:48:08 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 19:49:19 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 19:49:57 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 19:50:03 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[03-Nov-2017 19:51:10 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/nextp065/public_html/cashier.php on line 184
+[04-Nov-2017 13:55:43 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/nextp065/public_html/productsBack.php on line 169
+[04-Nov-2017 13:56:10 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/nextp065/public_html/productsBack.php on line 169
+[04-Nov-2017 13:56:14 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/nextp065/public_html/productsBack.php on line 169
+[04-Nov-2017 21:38:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[04-Nov-2017 21:38:18 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[06-Nov-2017 15:15:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[06-Nov-2017 15:15:26 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[06-Nov-2017 17:00:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nextp065/public_html/setEventsBack.php on line 12
+[06-Nov-2017 17:00:43 America/Chicago] PHP Warning:  strtr() expects parameter 1 to be string, array given in /home/nextp065/public_html/setEventsBack.php on line 10
+[06-Nov-2017 17:05:35 America/Chicago] PHP Deprecated:  Function ereg_replace() is deprecated in /home/nextp065/public_html/setEventsBack.php on line 10
+[06-Nov-2017 17:24:55 America/Chicago] PHP Deprecated:  Function ereg_replace() is deprecated in /home/nextp065/public_html/setEventsBack.php on line 10
+[06-Nov-2017 18:18:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/nextp065/public_html/lostTabBack.php on line 83
+[06-Nov-2017 20:19:37 America/Chicago] PHP Warning:  number_format() expects parameter 2 to be long, string given in /home/nextp065/public_html/lostTabBack.php on line 71
+[06-Nov-2017 20:21:01 America/Chicago] PHP Warning:  number_format() expects parameter 2 to be long, string given in /home/nextp065/public_html/lostTabBack.php on line 71
+[06-Nov-2017 22:15:25 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/reportBack.php on line 60
+[06-Nov-2017 22:16:16 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/reportBack.php on line 60
+[06-Nov-2017 22:16:52 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/reportBack.php on line 60
+[06-Nov-2017 22:34:50 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/reportBack.php on line 62
+[07-Nov-2017 21:09:55 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/nextp065/public_html/lostTab.php on line 247
+[07-Nov-2017 21:09:55 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/nextp065/public_html/lostTab.php on line 247
+[07-Nov-2017 21:23:15 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/lostTabBack.php on line 57
+[07-Nov-2017 21:40:40 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/cashierBack.php on line 69
+[09-Nov-2017 18:56:45 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/cashierBack2.php on line 19
+[11-Nov-2017 13:37:59 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 47
+[11-Nov-2017 13:37:59 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 47
+[11-Nov-2017 20:47:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[11-Nov-2017 20:47:20 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[14-Nov-2017 20:18:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[14-Nov-2017 20:18:08 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[17-Nov-2017 18:25:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[17-Nov-2017 18:25:04 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[17-Nov-2017 20:17:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[17-Nov-2017 20:17:14 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[25-Nov-2017 21:02:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[25-Nov-2017 21:02:36 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[29-Nov-2017 10:59:18 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/balao.php on line 43
+[29-Nov-2017 11:00:33 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/balao.php on line 43
+[29-Nov-2017 11:02:48 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/balao.php on line 43
+[29-Nov-2017 11:03:08 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/balao.php on line 43
+[29-Nov-2017 11:03:53 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/balao.php on line 43
+[29-Nov-2017 11:03:55 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/balao.php on line 43
+[29-Nov-2017 11:04:27 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/balao.php on line 43
+[29-Nov-2017 11:05:42 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/balao.php on line 43
+[29-Nov-2017 11:06:06 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/nextp065/public_html/balao.php on line 56
+[29-Nov-2017 16:39:53 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/dailyReport.php on line 35
+[01-Dec-2017 19:21:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[01-Dec-2017 19:21:41 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[01-Dec-2017 20:13:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[01-Dec-2017 20:13:54 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[01-Dec-2017 20:13:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[01-Dec-2017 20:13:54 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[02-Dec-2017 21:01:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[02-Dec-2017 21:01:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[05-Dec-2017 14:35:36 America/Chicago] PHP Warning:  require_once(inc/inc.validateCokkie.php): failed to open stream: No such file or directory in /home/nextp065/public_html/reportMaster.php on line 3
+[05-Dec-2017 14:35:36 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'inc/inc.validateCokkie.php' (include_path='.:/opt/php56/lib/php') in /home/nextp065/public_html/reportMaster.php on line 3
+[05-Dec-2017 14:35:57 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 102
+[05-Dec-2017 14:47:01 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/nextp065/public_html/reportMaster.php on line 20
+[05-Dec-2017 14:47:37 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/nextp065/public_html/reportMaster.php on line 132
+[05-Dec-2017 14:47:59 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nextp065/public_html/reportMaster.php on line 132
+[05-Dec-2017 14:48:18 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 108
+[05-Dec-2017 14:48:21 America/Chicago] PHP Warning:  Illegal string offset 'totE' in /home/nextp065/public_html/reportMaster.php on line 134
+[05-Dec-2017 14:48:21 America/Chicago] PHP Warning:  Illegal string offset 'totM' in /home/nextp065/public_html/reportMaster.php on line 135
+[05-Dec-2017 14:54:17 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 108
+[05-Dec-2017 15:13:13 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 109
+[07-Dec-2017 10:04:20 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/balao.php on line 73
+[07-Dec-2017 10:05:28 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/balao.php on line 73
+[07-Dec-2017 10:05:44 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/balao.php on line 73
+[07-Dec-2017 11:12:24 America/Chicago] PHP Fatal error:  Call to undefined function fetch_assoc() in /home/nextp065/public_html/stock.php on line 59
+[07-Dec-2017 11:13:12 America/Chicago] PHP Fatal error:  Call to undefined function fetch_assoc() in /home/nextp065/public_html/stock.php on line 59
+[07-Dec-2017 11:13:14 America/Chicago] PHP Fatal error:  Call to undefined function fetch_assoc() in /home/nextp065/public_html/stock.php on line 59
+[07-Dec-2017 11:13:16 America/Chicago] PHP Fatal error:  Call to undefined function fetch_assoc() in /home/nextp065/public_html/stock.php on line 59
+[10-Dec-2017 20:15:07 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 109
+[10-Dec-2017 20:15:18 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 109
+[10-Dec-2017 20:15:34 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 109
+[10-Dec-2017 20:24:08 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/nextp065/public_html/reportMaster.php on line 24
+[10-Dec-2017 20:24:35 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/nextp065/public_html/reportMaster.php on line 112
+[10-Dec-2017 20:24:39 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/nextp065/public_html/reportMaster.php on line 112
+[10-Dec-2017 20:24:48 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/nextp065/public_html/reportMaster.php on line 112
+[10-Dec-2017 20:27:30 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[14-Dec-2017 13:16:59 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nextp065/public_html/door.php on line 175
+[14-Dec-2017 13:19:04 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/door.php on line 175
+[14-Dec-2017 13:20:06 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/door.php on line 175
+[14-Dec-2017 13:25:01 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/door.php on line 176
+[14-Dec-2017 13:26:06 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/door.php on line 176
+[14-Dec-2017 13:26:28 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/door.php on line 176
+[14-Dec-2017 13:26:44 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/door.php on line 176
+[14-Dec-2017 16:38:10 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/donoComanda.php on line 7
+[14-Dec-2017 16:38:59 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/donoComanda.php on line 7
+[14-Dec-2017 16:39:00 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/donoComanda.php on line 7
+[14-Dec-2017 19:40:38 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[14-Dec-2017 19:40:38 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[15-Dec-2017 21:44:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[15-Dec-2017 21:44:21 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[16-Dec-2017 11:03:57 America/Chicago] PHP Parse error:  syntax error, unexpected '"' in /home/nextp065/public_html/setEventsBack.php on line 77
+[16-Dec-2017 19:31:38 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[16-Dec-2017 19:31:38 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[18-Dec-2017 16:03:17 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[18-Dec-2017 16:03:56 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[18-Dec-2017 16:03:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[22-Dec-2017 18:32:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[22-Dec-2017 18:32:57 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[23-Dec-2017 19:18:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[23-Dec-2017 19:18:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[23-Dec-2017 19:18:50 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[23-Dec-2017 19:18:50 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[23-Dec-2017 20:04:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[23-Dec-2017 20:04:55 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[27-Dec-2017 13:09:56 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[27-Dec-2017 13:11:32 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[27-Dec-2017 19:20:38 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[27-Dec-2017 19:20:38 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[27-Dec-2017 19:20:40 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[27-Dec-2017 19:20:40 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[28-Dec-2017 19:25:40 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[28-Dec-2017 19:25:40 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[02-Jan-2018 15:01:15 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[02-Jan-2018 15:01:37 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[04-Jan-2018 20:12:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[04-Jan-2018 20:12:03 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[11-Jan-2018 13:27:27 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[11-Jan-2018 13:28:35 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[11-Jan-2018 13:29:02 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[11-Jan-2018 18:46:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[11-Jan-2018 18:46:01 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[13-Jan-2018 15:12:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/nextp065/public_html/setEventsBack.php on line 62
+[14-Jan-2018 14:14:20 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/inc/inc.validateCookie.php on line 52
+[15-Jan-2018 12:45:48 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[18-Jan-2018 18:47:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[18-Jan-2018 18:47:16 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[18-Jan-2018 20:49:46 America/Chicago] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/nextp065/public_html/connect.php on line 12
+[18-Jan-2018 20:50:09 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 20:50:13 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 20:50:16 America/Chicago] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/nextp065/public_html/connect.php on line 12
+[18-Jan-2018 20:50:21 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 20:50:21 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 20:50:21 America/Chicago] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/nextp065/public_html/connect.php on line 12
+[18-Jan-2018 20:50:21 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 20:50:21 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 21:59:31 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'br398.hostgator.com.br' (111) in /home/nextp065/public_html/connect.php on line 12
+[18-Jan-2018 21:59:31 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'br398.hostgator.com.br' (111) in /home/nextp065/public_html/connect.php on line 12
+[18-Jan-2018 21:59:31 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'br398.hostgator.com.br' (111) in /home/nextp065/public_html/connect.php on line 12
+[18-Jan-2018 21:59:31 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 21:59:31 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 21:59:31 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 21:59:31 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 21:59:31 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'br398.hostgator.com.br' (111) in /home/nextp065/public_html/connect.php on line 12
+[18-Jan-2018 21:59:31 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 21:59:31 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 21:59:31 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 21:59:31 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 21:59:34 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'br398.hostgator.com.br' (111) in /home/nextp065/public_html/connect.php on line 12
+[18-Jan-2018 21:59:34 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 21:59:34 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 21:59:59 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'br398.hostgator.com.br' (111) in /home/nextp065/public_html/connect.php on line 12
+[18-Jan-2018 21:59:59 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 21:59:59 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 22:00:05 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'br398.hostgator.com.br' (111) in /home/nextp065/public_html/connect.php on line 12
+[18-Jan-2018 22:00:19 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 22:00:19 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 22:00:19 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'br398.hostgator.com.br' (111) in /home/nextp065/public_html/connect.php on line 12
+[18-Jan-2018 22:00:20 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 22:00:20 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 22:01:10 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'br398.hostgator.com.br' (111) in /home/nextp065/public_html/connect.php on line 12
+[18-Jan-2018 22:01:10 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[18-Jan-2018 22:01:10 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/inc/inc.validateCookie.php on line 22
+[20-Jan-2018 21:32:25 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[20-Jan-2018 21:32:25 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[20-Jan-2018 21:54:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[20-Jan-2018 21:54:32 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[21-Jan-2018 15:02:54 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[21-Jan-2018 15:03:28 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[21-Jan-2018 15:04:10 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[21-Jan-2018 15:10:51 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[21-Jan-2018 15:11:29 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[21-Jan-2018 15:12:44 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[25-Jan-2018 08:13:53 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[25-Jan-2018 08:27:15 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[25-Jan-2018 08:28:28 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[01-Feb-2018 08:59:48 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[01-Feb-2018 09:00:33 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[01-Feb-2018 09:09:57 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[01-Feb-2018 18:15:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/setEventsBack.php on line 50
+[01-Feb-2018 18:15:28 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/setEventsBack.php on line 52
+[01-Feb-2018 18:15:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/setEventsBack.php on line 50
+[01-Feb-2018 18:15:36 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/setEventsBack.php on line 52
+[01-Feb-2018 18:26:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/setEventsBack.php on line 50
+[01-Feb-2018 18:26:19 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/setEventsBack.php on line 52
+[02-Feb-2018 20:45:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[02-Feb-2018 20:45:21 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[03-Feb-2018 10:04:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/nextp065/public_html/zero.php on line 6
+[03-Feb-2018 10:05:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/nextp065/public_html/zero.php on line 8
+[03-Feb-2018 10:05:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/nextp065/public_html/zero.php on line 8
+[03-Feb-2018 10:06:44 America/Chicago] PHP Warning:  require_once(inc/incValidateCookie.php): failed to open stream: No such file or directory in /home/nextp065/public_html/zero.php on line 3
+[03-Feb-2018 10:06:44 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'inc/incValidateCookie.php' (include_path='.:/opt/php56/lib/php') in /home/nextp065/public_html/zero.php on line 3
+[05-Feb-2018 09:30:36 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[05-Feb-2018 09:31:26 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[05-Feb-2018 09:33:33 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[05-Feb-2018 09:33:55 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[08-Feb-2018 15:06:27 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[15-Feb-2018 14:47:01 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[15-Feb-2018 14:50:20 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[23-Feb-2018 19:16:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nextp065/public_html/checkList.php on line 22
+[23-Feb-2018 19:16:32 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/checkList.php on line 24
+[27-Feb-2018 12:29:42 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[27-Feb-2018 12:31:46 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[02-Mar-2018 17:16:12 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[03-Mar-2018 00:21:26 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/exitBack.php on line 11
+[03-Mar-2018 00:21:33 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nextp065/public_html/exitBack.php on line 11
+[03-Mar-2018 16:26:11 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[03-Mar-2018 16:26:32 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[03-Mar-2018 16:27:12 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[03-Mar-2018 16:30:51 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[05-Mar-2018 12:15:27 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112
+[05-Mar-2018 12:17:41 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nextp065/public_html/reportMaster.php on line 112

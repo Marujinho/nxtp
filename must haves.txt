@@ -1,0 +1,41 @@
+MUST HAVES:
+
+
+
+
+** para poder ter um business intelligence melhor, alguma coluna da table do usuario, que indique se ele ganhou vip, se vem sempre, ou se eh primeira vez, se eh cliente especial, famosinho do insta, alguma coisa... pra bater isso com o qto ele gasta, ..por exemplo daria pra quantificar se valeu a pensa dar vip para ele....
+
+
+**Todo final de expediente, é feito uma contagem  do bar, e geralmente a contagem eh anotado num caderno :/
+
+
+** Tem item tipo 3 por 10, etc.... combos.... eh possivel a pessoa pegar um e ficar dois itens no credito dela pra ela pegar.
+
+
+** quem da balao ou sai memo sem pagar e ja era...as vezes volta pra pagar, tem q ter um historico, tipo, a conta da pessoa nao pode apagar...se ela volta na casa tem q ser possivel recuperar o saldo devedor dela sempre... 
+
+
+
+** Os aparelhos quebram, ficam com defeito, muitas vezes por mau uso, galera deixa em qql lugar no fim do dia...
+Vai ter q ter um contrato rigoroso a respeito disso, por mau uso, por tempo de uso , alguma multa maluca...alguma revisao doida bimensal, algo do tipo.
+
+
+
+** Muita gente paga a comanda dos outros, pq fulano quer comer ciclano e se oferece pra pagar comanda da pessoa.... Tem q rolar algum esquema assim.
+Transferencia de credito de uma comanda para outra talvez....
+
+
+
+** vip de ultima hora, as vezes aparece umas pessoas meio importantes, e ficar repetindo cadastro, ou ter q fazer um big cadastro para abrir comanda pra elas eh osso... 
+
+
+
+** funcionarios tem q ter comanda, funcionarios tbm consomem, djs consomem, banda consome... 
+Alguma forma de fast comanda pra eles seria lindo...
+
+
+
+** Bebidas acabam, clientes ficam putos... todo lugar q trabalhei e fui foi assim...
+O sistema prever q pra aquele tipo de festa vai faltar x bebida e colocar uma mensagem gigante avisando pra comprar mais seria lindo ....
+
+
